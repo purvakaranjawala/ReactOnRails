@@ -1,0 +1,4 @@
+web: rails server
+js: yarn build --watch
+css: yarn watch:css
+css: yarn watch:css
